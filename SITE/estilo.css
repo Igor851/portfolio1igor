@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    color: rgb(0, 40, 75);
+    font-family: sans-serif;
+    /*background: linear-gradient(90deg, #083270 0%, #116AF0 47%, #117DF0 100%);
+    color: #fafafac2;*/
+}
+nav {
+    /*background-color: #05B5EF;*/
+    padding: 10px;
+}
+nav a{
+    text-decoration: none;
+}
+.icone{
+    height: 3%;
+    width: 3%;
+}
+header{
+    margin-bottom: 80px;
+}
+.titulo{
+    font-size: 50px;
+    text-align: center;
+}
+header img{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.subtitulo{
+    font-size: 30px;
+    text-align: center;  
+}
+
+.imagem-eu{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+article{
+    padding-left: 200px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    margin: auto;
+    align-items: center;
+}
+article h2{
+    font-size: 30px;
+    text-align: left;
+    margin-bottom:20px;
+}
+article p{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.linguagem{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.linguagem h3{
+    font-size: 20px;
+    margin: 10px 0px;
+}
+.img-html{
+    height: 200px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+.img-linguagem{
+    height: 250px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+footer{
+    background-color: #0094e97c;
+    margin-top: 80px;
+    padding: 10px;
+    text-align: center;
+}
+footer h3{
+    font-size: 30px;
+}
+footer p {
+    padding-top: 20px;
+    text-decoration: underline;
+}
